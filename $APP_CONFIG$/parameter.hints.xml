@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="cn.zjchangtian.rmfx.hadoop.HdfsUtils.listFiles(path)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
